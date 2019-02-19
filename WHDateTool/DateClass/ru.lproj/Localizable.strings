@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  WHDateTool
+
+  Created by Ntgod on 2018/12/19.
+  Copyright © 2018年 WH. All rights reserved.
+*/
+"OUTPUT" = "Выход";
+
+"TheDifference" = "Разница";
+"AddOrSubtract" = "Добавить или вычесть";
+"Weekday" = "Будний день";
+"LeapYear" = "Високосный год";
+"TheDifferenceBetweenTwoDates" = "Разница между двумя датами";
+"AddOrSubtractADuration" = "Добавление или вычитание длительности";
+"WeekdaysBetweenTwoDates" = "Будние дни между двумя датами";
+"CheckLeapYear" = "Проверить високосный год";
+"INPUT" = "Вход";
+"SelectTheDate" = "Выберите дату";
+"Home" = "Главная страница";
+"Day" = "День";
+"Month" = "Месяц";
+"Year" = "Год";
+"Date" = "Дата";
+"Monday" = "Понедельник";
+"Tuesday" = "Вторник";
+"Wednesday" = "Среда";
+"Thursday" = "Суббота";
+"Friday" = "Пятница";
+"Saturday" = "Суббота";
+"Sunday" = "Воскресенье";
+"IsALeapYear" = "-високосный год.";
+"IsNotALeapYear" = " не високосный год.";
+"Theme" = "тема";
+"Feedback" = "Обратная связь";
+"Rate" = "Oценивать";
+"Share" = "Поделиться";
+"Appname" = "Калькулятор даты++";
+"UpgradeMessage" = "Обновление до Калькулятор даты++, то вы можете использовать все функции без рекламы.";
+"Upgrade" = "модернизировать";
+"Done" = "Ладно";

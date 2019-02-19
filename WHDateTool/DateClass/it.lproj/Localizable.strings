@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  WHDateTool
+
+  Created by Ntgod on 2018/12/19.
+  Copyright © 2018年 WH. All rights reserved.
+*/
+"OUTPUT" = "OUTPUT";
+
+"TheDifference" = "La differenza";
+"AddOrSubtract" = "Aggiungere o sottrarre";
+"Weekday" = "Giorno feriale";
+"LeapYear" = "Bisestile";
+"TheDifferenceBetweenTwoDates" = "La differenza tra due date";
+"AddOrSubtractADuration" = "Aggiungere o sottrarre una durata";
+"WeekdaysBetweenTwoDates" = "Giorni feriali tra due date";
+"CheckLeapYear" = "Controllare l'anno bisestile";
+"INPUT" = "INPUT";
+"SelectTheDate" = "Selezionare la data";
+"Home" = "Home page";
+
+"Day" = "Giorno";
+"Month" = "Mese";
+"Year" = "Anno";
+"Date" = "Data";
+"Monday" = "Lunedì";
+"Tuesday" = "Martedì";
+"Wednesday" = "Mercoledì";
+"Thursday" = "Giovedì";
+"Friday" = "Venerdì";
+"Saturday" = "Sabato";
+"Sunday" = "Domenica";
+"IsALeapYear" = " è un anno bisestile.";
+"IsNotALeapYear" = " non è un anno bisestile.";
+"Theme" = "Tema";
+"Feedback" = "Feedback";
+"Rate" = "Valutare";
+"Share" = "Condividere";
+"Appname" = "Calcolatore di data++";
+"UpgradeMessage" = "Aggiornamento a Calcolatore di data++ quindi è possibile utilizzare tutte le funzionalità senza annunci.";
+"Upgrade" = "Aggiornamento";
+"Done" = "Fine";

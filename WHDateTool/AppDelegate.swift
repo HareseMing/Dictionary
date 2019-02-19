@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  WHDateTool
 //
-//  Created by Ntgod on 2018/12/19.
+//  Created by Ntgod on 2019/2/19.
 //  Copyright © 2018年 WH. All rights reserved.
 //
 
@@ -16,9 +16,32 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
+        
+//        UserDefaults.standard.set("isLightTheme", forKey: isLightThemeKey)
+        
+        
+        window = UIWindow()
+        window?.makeKeyAndVisible()
+        window?.rootViewController = WHMainTabBarController()
+        
+        
+        //push
+        let entity = JPUSHRegisterEntity()
+        entity.types = 1 << 0 | 1 << 1 | 1 << 2
+        JPUSHService.register(forRemoteNotificationConfig: entity, delegate:nil)
+        JPUSHService.setup(withOption: launchOptions, appKey: "62a4ef1499573f4796c5fdf9", channel: "Publish channel", apsForProduction: false, advertisingIdentifier: nil)
+        
+   
         return true
     }
 
+    //get Token
+    func application(_ application: UIApplication, didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data) {
+        JPUSHService.registerDeviceToken(deviceToken)
+    }
+    
+  
     func applicationWillResignActive(_ application: UIApplication) {
         // Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.
         // Use this method to pause ongoing tasks, disable timers, and invalidate graphics rendering callbacks. Games should use this method to pause the game.
@@ -35,6 +58,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func applicationDidBecomeActive(_ application: UIApplication) {
         // Restart any tasks that were paused (or not yet started) while the application was inactive. If the application was previously in the background, optionally refresh the user interface.
+        application.applicationIconBadgeNumber = 0
     }
 
     func applicationWillTerminate(_ application: UIApplication) {
