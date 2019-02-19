@@ -17,7 +17,7 @@ Date or date adjustment, results immediately appear.
 Simple and convenient small application.
 
 
-![image](https://github.com/ntgod/DateProTool/blob/master/DateProTool/Resource/datepro2.png)
+![image](https://github.com/ntgod/DateProTool/blob/master/Resource/datepro2.png)
 ![image](https://github.com/ntgod/DateProTool/blob/master/DateProTool/Resource/datepro3.png)
 ![image](https://github.com/ntgod/DateProTool/blob/master/DateProTool/Resource/datepro4.png)
 ![image](https://github.com/ntgod/DateProTool/blob/master/DateProTool/Resource/datepro5.png)
