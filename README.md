@@ -17,10 +17,10 @@ Date or date adjustment, results immediately appear.
 Simple and convenient small application.
 
 
-![image](https://github.com/ntgod/DateProTool/blob/master/WHDateTool/Resource/datepro2.png)
-![image](https://github.com/ntgod/DateProTool/blob/master/WHDateTool/Resource/datepro3.png)
-![image](https://github.com/ntgod/DateProTool/blob/master/WHDateTool/Resource/datepro4.png)
-![image](https://github.com/ntgod/DateProTool/blob/master/WHDateTool/Resource/datepro5.png)
+![image](https://github.com/ntgod/DateProTool/blob/master/DateProTool/Resource/datepro2.png)
+![image](https://github.com/ntgod/DateProTool/blob/master/DateProTool/Resource/datepro3.png)
+![image](https://github.com/ntgod/DateProTool/blob/master/DateProTool/Resource/datepro4.png)
+![image](https://github.com/ntgod/DateProTool/blob/master/DateProTool/Resource/datepro5.png)
 
-<!--![image](https://github.com/ntgod/DateProTool /blob/master/WHDateTool/Resource/datepro1.png)-->
-<!--![video](https://github.com/ntgod/DateProTool /blob/master/WHDateTool/Resource/1080x1920.mp4)-->
+<!--![image](https://github.com/ntgod/DateProTool /blob/master/DateProTool/Resource/datepro1.png)-->
+<!--![video](https://github.com/ntgod/DateProTool /blob/master/DateProTool/Resource/1080x1920.mp4)-->
