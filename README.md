@@ -16,11 +16,11 @@ Date or date adjustment, results immediately appear.
 
 Simple and convenient small application.
 
-<!--![image](https://github.com/ntgod/DateProTool /blob/master/gif-creator/Resource/datepro1.png)-->
-![image](https://github.com/ntgod/DateProTool /blob/master/gif-creator/Resource/datepro2.png)
-![image](https://github.com/ntgod/DateProTool /blob/master/gif-creator/Resource/datepro3.png)
-![image](https://github.com/ntgod/DateProTool /blob/master/gif-creator/Resource/datepro4.png)
-![image](https://github.com/ntgod/DateProTool /blob/master/gif-creator/Resource/datepro5.png)
+<!--![image](https://github.com/ntgod/DateProTool /blob/master/WHDateTool/Resource/datepro1.png)-->
+![image](https://github.com/ntgod/DateProTool /blob/master/WHDateTool/Resource/datepro2.png)
+![image](https://github.com/ntgod/DateProTool /blob/master/WHDateTool/Resource/datepro3.png)
+![image](https://github.com/ntgod/DateProTool /blob/master/WHDateTool/Resource/datepro4.png)
+![image](https://github.com/ntgod/DateProTool /blob/master/WHDateTool/Resource/datepro5.png)
 
 
-<!--![video](https://github.com/ntgod/DateProTool /blob/master/gif-creator/Resource/1080x1920.mp4)-->
+<!--![video](https://github.com/ntgod/DateProTool /blob/master/WHDateTool/Resource/1080x1920.mp4)-->
