@@ -1,20 +1,14 @@
-DatePro Tool
+Dictionary
 ===============
 
-Date conversion gadget.
-A date calculator is a handy tool for calculating the difference between two days or for adding or deleting dates to specific dates.
+Dictionary query interpretation:
+After downloading the APP, search for words; after vocabulary, click Manage; first download the dictionary interpretation package of the corresponding country, so that dictionary query can be conducted without network.
 
-Main features:
+Features:
+-- simple, convenient and quick
+-- light and small applications
 
-- light weight, fast working speed
-
-- support for multiple languages
-
-Easy to use
-
-Date or date adjustment, results immediately appear.
-
-Simple and convenient small application.
+Is a dictionary query interpretation type of application, iPhone and iPad support.
 
 
 ![image](https://github.com/ntgod/DateProTool/blob/master/Resource/dict1.png)
